@@ -1,0 +1,12 @@
+{
+    "display_name": "Ticket Tools",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "mlixer",
+    "version": "0.2.0",
+    "homePage": "https://github.com/mlixer/st-ticket-tools",
+    "auto_update": false
+}
